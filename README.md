@@ -1,2 +1,4 @@
 # DLOA2023
-Introductory course on Deep Learning for Ocean and Atmosphere Dynamics
+Resources for the introductory course on Deep Learning for Ocean and Atmosphere Dynamics, June 26-30n, 2023
+
+
