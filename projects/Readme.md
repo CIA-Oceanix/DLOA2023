@@ -1,10 +1,18 @@
 ## The course involves four project topics:
 - Topic 1: Space-time downscaling/super-resolution of sea surface dynamics:
-  - Associated paper:
-  - Associated dataset:   
+  - Associated paper: TBD
+  - Associated dataset: [link](https://github.com/CIA-Oceanix/DLOA2023/blob/main/projects/notebook_data_loading_and_visualization_NALT60GF.ipynb)
 - Topic 2: Space-time interpolation of SSH fields from satellite altimetry data
-- Topic 3: Short-term weather forecasting (weatherbench repo: [link](https://github.com/pangeo-data/WeatherBench))
-- Topic 4: Space-time segmentation of oceanic eddies from satellite-derived observations 
+  - Associated paper: TBD
+  - Associated dataset: [link](https://github.com/CIA-Oceanix/DLOA2023/blob/main/projects/notebook_data_loading_and_visualization_NALT60GF.ipynb)
+- Topic 3: Short-term weather forecasting (weatherbench repo: )
+  - Associated paper: Rasp et al., 2020 [link](https://arxiv.org/abs/2002.00469)
+  - Weather bench repo: [link](https://github.com/pangeo-data/WeatherBench)
+- Topic 4: Space-time segmentation of oceanic eddies from satellite-derived observations
+  - Associated paper: Moschos et al. [link](https://openaccess.thecvf.com/content/WACV2023/papers/Moschos_Computer_Vision_for_Ocean_Eddy_Detection_in_Infrared_Imagery_WACV_2023_paper.pdf)  
+  - Associated dataset: [link]([https://github.com/CIA-Oceanix/DLOA2023/blob/main/projects/Retreive_and_Visualize_GLO12.ipynb))
 - Topic 4: Classification of metocean processes in SAR-derived observations  
+  - Associated paper:  TBD
+  - Associated dataset: TBD
 
-For each topic, we provide an introductory notebook to load and visualize the considered datasets.
+For each topic, we provide an introductory notebook to load and visualize the considered datasets and a reference paper.
