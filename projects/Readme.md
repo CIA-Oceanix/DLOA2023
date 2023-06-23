@@ -10,7 +10,7 @@
   - Weather bench repo: [link](https://github.com/pangeo-data/WeatherBench)
 - Topic 4: Space-time segmentation of oceanic eddies from satellite-derived observations
   - Associated paper: Moschos et al. [link](https://openaccess.thecvf.com/content/WACV2023/papers/Moschos_Computer_Vision_for_Ocean_Eddy_Detection_in_Infrared_Imagery_WACV_2023_paper.pdf)  
-  - Associated dataset: [link]([https://github.com/CIA-Oceanix/DLOA2023/blob/main/projects/Retreive_and_Visualize_GLO12.ipynb)
+  - Associated dataset: [link](https://github.com/CIA-Oceanix/DLOA2023/blob/main/projects/Retreive_and_Visualize_GLO12.ipynb)
 - Topic 5: Classification of metocean processes in SAR-derived observations  
   - Associated paper:  C. Wang et al. [link](https://tandeo.files.wordpress.com/2019/11/wang_2019.pdf)
   - Associated dataset: [link](https://www.dropbox.com/sh/oywnqjet1bsawul/AABOHrojTSpsrO9bHYxwBKvca?dl=0)
