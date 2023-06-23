@@ -14,5 +14,9 @@
 - Topic 4: Classification of metocean processes in SAR-derived observations  
   - Associated paper:  TBD
   - Associated dataset: TBD
+- Topic 5: Prediction of a summer-cumulated streamflow for electrical production
+  - Associated paper: [link](https://doi.org/10.5194/hess-27-2283-2023)
+  - Associated dataset: provided in the repo
+  - The choice of this topic must be discussed with a teacher beforehand.
 
 For each topic, we provide an introductory notebook to load and visualize the considered datasets and a reference paper.
