@@ -19,7 +19,10 @@
   - Associated dataset: provided in the repo
   - The choice of this topic must be discussed with a teacher beforehand.
 - Topic 7: Data-driven identification and simulation of Lorenz-63 dynamics
-  - Associated paper: Ouala et al., 2018 [link]([https://doi.org/10.5194/hess-27-2283-2023](https://new.eurasip.org/Proceedings/Eusipco/Eusipco2018/papers/1570437368.pdf))
+  - Associated paper: Ouala et al., 2018 [link](https://doi.org/10.5194/hess-27-2283-2023](https://new.eurasip.org/Proceedings/Eusipco/Eusipco2018/papers/1570437368.pdf))
   - Associated dataset: see the labsession notebook using Lorenz-63 data
-
+- Topic 8: Dimension reduction and forecast of image time series (SSH and Sentinel-2 data)
+  - Associated papers: SSH data: [link](https://meom-group.github.io/projects/occiput/) | Sentinel-2 data: [link](https://arxiv.org/abs/2305.03743) for forecasting and [link](https://web.archive.org/web/20220521031508id_/https://ieeexplore.ieee.org/ielx7/4609443/9656571/09672688.pdf) for dimension reduction
+  - Associated datasets: provided in the notebook
+    
 For each topic, we provide an introductory notebook to load and visualize the considered datasets and a reference paper.
